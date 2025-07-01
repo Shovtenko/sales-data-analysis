@@ -1,4 +1,4 @@
-# sales-data-analysis
+#data-analysis
 # Retail Sales Analysis – Аналіз продажів магазину
 
 Цей проєкт демонструє базові навички Data Analytics з використанням Python та бібліотек Pandas, NumPy, Matplotlib і Seaborn. Він є частиною мого портфоліо як Junior Data Analyst.
